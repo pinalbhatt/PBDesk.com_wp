@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GoLang &#8211; PBDesk</title>
+	<atom:link href="/tag/golang/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>from the desk of Pinal Bhatt</description>
+	<lastBuildDate>Thu, 22 Feb 2018 02:48:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Hugo &#8211; Static Site Generator [Video Tutorial]</title>
+		<link>/hugo-static-site-generator-video-tutorial/</link>
+		<comments>/hugo-static-site-generator-video-tutorial/#respond</comments>
+		<pubDate>Thu, 22 Feb 2018 02:09:25 +0000</pubDate>
+		<dc:creator><![CDATA[pinal.bhatt]]></dc:creator>
+				<category><![CDATA[Blogging]]></category>
+		<category><![CDATA[CMS]]></category>
+		<category><![CDATA[GoLang]]></category>
+		<category><![CDATA[Hugo]]></category>
+
+		<guid isPermaLink="false">/?p=136</guid>
+		<description><![CDATA[<p>&#8220;HUGO&#8221; &#8211; As its official website gohugo.io says &#8211; The world&#8217;s fastest framework for building &#8220;static&#8221; websites. Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again. Here is a fantastic video series/playlist &#8220;Hugo &#8211; Static Site Generator&#8221; of 23 videos on [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/hugo-static-site-generator-video-tutorial/">Hugo &#8211; Static Site Generator [Video Tutorial]</a> appeared first on <a rel="nofollow" href="/">PBDesk</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>&#8220;HUGO&#8221; &#8211; As its official website <a href="http://gohugo.io/" target="_blank" rel="noopener">gohugo.io</a> says &#8211;</p>
+<blockquote><p>The world&#8217;s fastest framework for building &#8220;static&#8221; websites.</p></blockquote>
+<p>Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.</p>
+<p>Here is a fantastic video series/playlist <em><strong>&#8220;Hugo &#8211; Static Site Generator&#8221;</strong></em> of 23 videos on youtube from <em>Giraffe Academy</em>.</p>
+<p class="responsive-video-wrap clr"><iframe width="1200" height="675" src="https://www.youtube.com/embed/videoseries?list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+<p style="text-align: center;"></p>
+<ol>
+<li>Introduction to Hugo</li>
+<li>Installing Hugo on Windows</li>
+<li>Installing Hugo on Mac</li>
+<li>
+<p class="title style-scope ytd-video-primary-info-renderer">Creating a New Site / Directory Structure</p>
+</li>
+<li>
+<p class="title style-scope ytd-video-primary-info-renderer">Installing &amp; Using Themes</p>
+</li>
+<li>
+<p class="title style-scope ytd-video-primary-info-renderer">Creating &amp; Organizing Content</p>
+</li>
+<li>
+<p class="title style-scope ytd-video-primary-info-renderer">Front Matter</p>
+</li>
+<li>
+<p class="title style-scope ytd-video-primary-info-renderer">Archetypes</p>
+</li>
+<li>
+<p class="title style-scope ytd-video-primary-info-renderer">Shortcodes</p>
+</li>
+<li>
+<p class="title style-scope ytd-video-primary-info-renderer">Taxonomies</p>
+</li>
+<li>
+<p class="title style-scope ytd-video-primary-info-renderer">Template Basics</p>
+</li>
+<li>
+<p class="title style-scope ytd-video-primary-info-renderer">List Page Templates</p>
+</li>
+<li>
+<p class="title style-scope ytd-video-primary-info-renderer">Single Page Templates</p>
+</li>
+<li>
+<p class="title style-scope ytd-video-primary-info-renderer">Home Page Templates</p>
+</li>
+<li>
+<p class="title style-scope ytd-video-primary-info-renderer">Section Templates</p>
+</li>
+<li>
+<p class="title style-scope ytd-video-primary-info-renderer">Base Templates &amp; Blocks</p>
+</li>
+<li>
+<p class="title style-scope ytd-video-primary-info-renderer">Variables</p>
+</li>
+<li>
+<p class="title style-scope ytd-video-primary-info-renderer">Functions</p>
+</li>
+<li>
+<p class="title style-scope ytd-video-primary-info-renderer">If Statements</p>
+</li>
+<li>
+<p class="title style-scope ytd-video-primary-info-renderer">Data Files</p>
+</li>
+<li>
+<p class="title style-scope ytd-video-primary-info-renderer">Partial Templates</p>
+</li>
+<li>
+<p class="title style-scope ytd-video-primary-info-renderer">Shortcode Templates</p>
+</li>
+<li>
+<p class="title style-scope ytd-video-primary-info-renderer">Building Your Site</p>
+</li>
+</ol>
+<pre class="select ai-block-number"></pre>
+<p>The post <a rel="nofollow" href="/hugo-static-site-generator-video-tutorial/">Hugo &#8211; Static Site Generator [Video Tutorial]</a> appeared first on <a rel="nofollow" href="/">PBDesk</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/hugo-static-site-generator-video-tutorial/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
